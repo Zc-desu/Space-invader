@@ -1,0 +1,4 @@
+This game must be opened by using Visual Studio Code
+1. Install extension of Live Server
+2. Right click on index.html and choose "Open With Live Server"
+3. Enjoy the game!
